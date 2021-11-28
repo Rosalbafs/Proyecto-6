@@ -1,4 +1,4 @@
-![Banner](./images/desk.jpg)
+<img src="./images/Desk.JPG" class="Desk"/>
 
 # PROYECTO 6: Portafolio
 
@@ -6,8 +6,8 @@
 
 * [1. Intro](#1-intro)
 * [2. Portafolio](#2-portafolio)
-* [3. Perfil](#3-perfil)
-General
+* [3. Perfil General](#3-perfil)
+
 
 ## 1. Intro
 
