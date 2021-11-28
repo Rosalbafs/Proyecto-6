@@ -21,8 +21,8 @@ La intención es mostrar de manera resumida el trabajo realizado durante el Boot
 
 A continuacion se prsentan los links para algunos de los proyectos, así como los links a nivel profesional donde podrás encontrar mi información laboral..
 
-![](./imagenes/picture.jpg)
-
+![](./images/picture.jpg)
+<img src="./images/picture.JPG" class="picture"/>
 
 
 ****
@@ -31,7 +31,7 @@ A continuacion se prsentan los links para algunos de los proyectos, así como lo
 
 Me llamo Rosalba Fuentes actualmente estoy desarrollando proyectos enfocados a desarrollo web que incluyen el uso de diferentes librerias como Javascript, React & Mongo. Eestuve cursando un Bottcamp como Developer FuLL Stack.
 
-Durante mi trayectoria he creado trabajos para crear informacion, diseños d epaginas web, consulytas de informacion etc. 
+Durante mi trayectoria he creado trabajos para crear informacion, diseños de paginas web, consulytas de informacion etc. 
 
 URL hacia el repositorio
 https://github.com/Rosalbafs
@@ -57,6 +57,10 @@ Rosalba Fuentes
 
 Mexico
 
+Master Data Science Developer Web Full Stack Compliance Control Risk
+
+Emprendedora, Maestra, Líder, Capacitadora. Capaz de trabajar en diferentes áreas para lanzar proyectos, implementar procesos, con equipos globales: América, Europa y Asia.
+
 Linkedin
 
 https://www.linkedin.com/in/rose-f-soto-85629193/
@@ -65,9 +69,9 @@ GitHub
 
 https://github.com/Rosalbafs
 
+<img src="./images/Developer.JPG" class="Developer"/>
 
-habilidades / conocimientos
+Habilidades / Conocimientos
+Analítica, Orientación a Resultados, Comunicación Asertiva, Trabajo en Equipo, Pensamiento Digital, Agilidad de Aprendizaje, Resiliencia.
 
-
-
-Stack: HTML, CSS, MongoDB, Express, React, Node, JavaScript, etc
+Stack IT: HTML, CSS, MongoDB, Express, React, Node, JavaScript, etc
