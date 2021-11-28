@@ -24,9 +24,6 @@ A continuacion se prsentan los links para algunos de los proyectos, así como lo
 ![](./images/picture.jpg)
 <img src="./images/picture.JPG" class="picture"/>
 
-
-****
-
 ## 3. Perfil
 
 Me llamo Rosalba Fuentes actualmente estoy desarrollando proyectos enfocados a desarrollo web que incluyen el uso de diferentes librerias como Javascript, React & Mongo. Eestuve cursando un Bottcamp como Developer FuLL Stack.
