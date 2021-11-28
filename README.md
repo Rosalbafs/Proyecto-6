@@ -1,12 +1,12 @@
-![Banner](./imagenes/desk.jpg)
+![Banner](./images/desk.jpg)
 
 # PROYECTO 6: Portafolio
 
 ## **ÍNDICE**
 
 * [1. Intro](#1-intro)
-* [2. Portafolio](#2-demo)
-* [3. Perfil]
+* [2. Portafolio](#2-portafolio)
+* [3. Perfil](#3-perfil)
 General
 
 ## 1. Intro
