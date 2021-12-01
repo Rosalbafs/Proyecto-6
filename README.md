@@ -11,24 +11,24 @@
 
 ## 1. Intro
 
-El presente proyecto es para presentar un panorama de los proyectos realizados, los cuales usaron diferentes librerias como javascript, react, node, mongo, etc.
+El presente proyecto es para presentar un panorama de los proyectos realizados, los cuales usaron diferentes librerías como Javascript, React, Node, Mongo, etc.
 
-La intención es mostrar de manera resumida el trabajo realizado durante el Bootcamp en UTEL. Estos poryectos serán mejorados y otros se enriquecerán con nuevos módulos.
+La intención es mostrar de manera resumida el trabajo realizado durante el Bootcamp en UTEL. Estos proyectos serán mejorados y otros se enriquecerán con nuevos módulos.
 
 ****
 
 ## 2. Portafolio
 
-A continuacion se prsentan los links para algunos de los proyectos, así como los links a nivel profesional donde podrás encontrar mi información laboral..
+A continuación se prsentan los links para algunos de los proyectos, así como los links a nivel profesional donde podrás encontrar mi información laboral.
 
 ![](./images/picture.jpg)
 <img src="./images/picture.JPG" class="picture"/>
 
 ## 3. Perfil
 
-Me llamo Rosalba Fuentes actualmente estoy desarrollando proyectos enfocados a desarrollo web que incluyen el uso de diferentes librerias como Javascript, React & Mongo. Eestuve cursando un Bottcamp como Developer FuLL Stack.
+Me llamo Rosalba Fuentes actualmente estoy desarrollando proyectos enfocados a desarrollo web que incluyen el uso de diferentes librerías como Javascript, React & Mongo. Eestuve cursando un Bottcamp como Developer FuLL Stack.
 
-Durante mi trayectoria he creado trabajos para crear informacion, diseños de paginas web, consulytas de informacion etc. 
+Durante mi trayectoria he creado trabajos para crear información, diseños de páginas web, consultas de información, uso de GitHub, etc. 
 
 URL hacia el repositorio
 https://github.com/Rosalbafs
@@ -42,7 +42,7 @@ https://rosalbafs.github.io/PROYECTO-2-CRUD.github.io/
 
 Descripción de los proyectos
 
-Se han desarrollado proyectos de todo tipo: salud, informacion de precios, calculadora, diseños para sitios web, mapa conceptual para una página de ecommerce, etc.
+Se han desarrollado proyectos de todo tipo: salud, información de precios, calculadora, diseños para sitios web, mapa conceptual para una página de ecommerce, etc.
 
 ****
 
@@ -52,11 +52,11 @@ Perfil profesional
 
 Rosalba Fuentes
 
-Mexico
+México
 
 Master Data Science Developer Web Full Stack Compliance Control Risk
 
-Emprendedora, Maestra, Líder, Capacitadora. Capaz de trabajar en diferentes áreas para lanzar proyectos, implementar procesos, con equipos globales: América, Europa y Asia.
+Emprendedora, Maestra, Líder, Capacitadora. Capaz de trabajar en diferentes áreas para lanzar proyectos, implementar procesos con equipos globales: América, Europa y Asia.
 
 Linkedin
 
